@@ -13,10 +13,9 @@
 - MS Office: Documentación de las pruebas.
 
 </a>
-<img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
 <img decoding="async" src="https://img.shields.io/badge/WEB-D85B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
 <img decoding="async" src="https://img.shields.io/badge/DevTools-D80B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
-<img decoding="async" src="https://img.shields.io/badge/SQL-009975?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
 <img decoding="async" src="https://img.shields.io/badge/Microsoft_Office-D86B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft-office"/>
 </a>
 
