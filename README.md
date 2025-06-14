@@ -14,13 +14,9 @@
 
 </a>
 <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
-<img decoding="async" src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
-<img decoding="async" src="https://img.shields.io/badge/Drawio-D85B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
+<img decoding="async" src="https://img.shields.io/badge/WEB-D85B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
 <img decoding="async" src="https://img.shields.io/badge/DevTools-D80B01?style=for-the-badge&logo=Drawio&logoColor=white" alt="Drawio"/>
 <img decoding="async" src="https://img.shields.io/badge/SQL-009975?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-<img decoding="async" src="https://img.shields.io/badge/AVS-404040?style=for-the-badge&logo=AVS&logoColor=white" alt="AVS"/>
-<img decoding="async" src="https://img.shields.io/badge/Postman-D83B01?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-<img decoding="async" src="https://img.shields.io/badge/JSON-30D5C8?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON"/>
 <img decoding="async" src="https://img.shields.io/badge/Microsoft_Office-D86B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="microsoft-office"/>
 </a>
 
@@ -62,7 +58,7 @@ Verificar que los resultados se actualizan correctamente al aplicar filtros.
 Comprobar la presentación de los resultados (imágenes, precios, disponibilidad).
 Verificar el comportamiento cuando no hay resultados para una búsqueda.
 #### - Adición de Productos al Carrito
-Página de producto:
+- Página de producto:
 Navegar a la página de un producto específico.
 Verificar que se muestra la información relevante del producto (descripción, precio, imágenes, disponibilidad).
 - Agregar al carrito:
@@ -74,18 +70,18 @@ Intentar agregar un producto sin stock (si la aplicación lo permite mostrar).
 Verificar que el ícono del carrito o la sección del carrito se actualiza correctamente.
 Navegar a la página del carrito de compras.
 #### - Proceso de Checkout (Caja)
-Página del carrito:
+- Página del carrito:
 Verificar que los productos y cantidades en el carrito son correctos.
 Intentar modificar cantidades de productos directamente en el carrito.
 Intentar eliminar productos del carrito.
 Verificar que los totales (subtotal, envío, total) se actualizan correctamente.
-Selección de envío/Recolección:
+- Selección de envío/Recolección:
 Explorar las opciones de envío a domicilio y/o recolección en tienda.
 Si aplica, verificar la entrada de dirección de envío y validación.
-Métodos de pago:
+- Métodos de pago:(solo se agregara el pago sin revisar todo el flujo y datos)
 Explorar los métodos de pago disponibles (tarjeta de crédito/débito, efectivo, etc.).
 No es necesario completar una compra real, pero verificar que se puede avanzar hasta el punto de la introducción de los datos de pago.
-Revisión y confirmación del pedido:
+- Revisión y confirmación del pedido:
 Verificar que se muestra un resumen claro del pedido antes de la confirmación final.
 Simular el clic en el botón de "Confirmar pedido" para ver la respuesta (si no se requiere un pago real).
 
