@@ -48,7 +48,7 @@ Explorar el menú principal y las categorías de productos.
 Verificar que los enlaces principales funcionan y dirigen a las páginas correctas.
 #### - Búsqueda de Productos
 Búsqueda simple:
-Buscar productos por nombre exacto (ej. "Paracetamol", "Shampoo").
+Buscar productos por nombre exacto (ej. "Paracetamol", "Bebidas").
 Buscar productos con nombres parciales o errores tipográficos comunes.
 - Búsqueda avanzada/Filtros:
 Si existen, utilizar filtros por categoría, precio, marca, etc.
@@ -75,6 +75,7 @@ Intentar modificar cantidades de productos directamente en el carrito.
 Intentar eliminar productos del carrito.
 Verificar que los totales (subtotal, envío, total) se actualizan correctamente.
 - Selección de envío/Recolección:
+- En esta sección solo se llena el formulario con los datos de envío, pero no se verifica el flujo del mis mo por ser demasiado largo para nuestras pruebas y no se completara el pago de una compra real.
 Explorar las opciones de envío a domicilio y/o recolección en tienda.
 Si aplica, verificar la entrada de dirección de envío y validación.
 - Métodos de pago:(solo se agregara el pago sin revisar todo el flujo y datos)
