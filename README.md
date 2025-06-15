@@ -102,7 +102,7 @@ Se adoptará una estrategia de pruebas basada en el riesgo, enfocándose primero
  La documentación de las pruebas se desarrollaro en los siguientes archivos disponibles.
 #### :file_folder: Documentación para el aplicativo Web:
  
-  - Lista de comprobación: 
+  - Lista de comprobación: https://docs.google.com/spreadsheets/d/1wNr76IR04i3inApwY4HMgmSqtH7gfUmH9-g2oOTaCvo/edit?usp=sharing
   - Reporte y seguimiento de errores:
 
 ### :page_facing_up: *Informe resumen:* 
