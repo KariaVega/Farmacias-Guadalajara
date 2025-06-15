@@ -35,7 +35,7 @@ Sistema operativo: Windows 10/11, macOS (probaremos en Windows 10/11).
 Conexión a internet: Estable.
 Credenciales de usuario: Se recomienda tener al menos una cuenta de usuario registrada y, si es posible, una cuenta nueva para probar el registro.
 
-#### 4. Casos de Prueba (Exploratorios)
+#### 4. Listas de Comprobación (Exploratorios)
 #### - Acceso y Navegación
 Acceso a la web: Verificar que se puede acceder a la URL principal de Farmacias Guadalajara.
 Comprobar la carga inicial de la página.
