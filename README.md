@@ -1,5 +1,7 @@
 # Farmacias-Guadalajara:
 
+![image](https://github.com/user-attachments/assets/4585c19e-bf4f-47ac-a781-99c1d7c26fb7)
+
 ### :page_facing_up: *Documentación utilizada:* 
 - Dirección del servidor: https://www.farmaciasguadalajara.com/
 - Requisitos: No hay requisitos
