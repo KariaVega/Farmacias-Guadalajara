@@ -22,7 +22,8 @@
 ### :fireworks: *Descripción del Aplicativo Farmacias Guadalajara*
 #### 1. Exploración de Pedidos en Farmacias Guadalajara:
 Este plan de pruebas sencillo ayudará a explorar la funcionalidad de pedidos en la aplicación de Farmacias Guadalajara. 
-El objetivo principal es identificar cualquier problema básico o comportamiento inesperado durante el proceso de compra.
+#### El objetivo principal: 
+es identificar cualquier problema básico o comportamiento inesperado durante el proceso de compra.
  
 #### 2. Alcance de la Prueba:
 - Aplicación a probar: La aplicación web de Farmacias Guadalajara en su versión de escritorio.
@@ -30,8 +31,9 @@ El objetivo principal es identificar cualquier problema básico o comportamiento
 - Tipo de prueba: Exploratoria, enfocada en la usabilidad y flujo general.
 
 #### 3. Entorno de Prueba
-Navegador(es) recomendado(s): Chrome, Firefox, Edge (probaremos Chrome para esta prueba).
-Sistema operativo: Windows 10/11, macOS (probaremos en Windows 10/11).
+Navegador(es) recomendado(s): Chrome, Firefox, Edge (utilizaremos Chrome para las pruebas).
+Configuración: (Navegador Chrome Versión 137.0.7151.104 (Build oficial) (64 bits)).
+Sistema operativo: (SO Windows 10, 64 bits), resolución 1920x1080.).
 Conexión a internet: Estable.
 Credenciales de usuario: Se recomienda tener al menos una cuenta de usuario registrada y, si es posible, una cuenta nueva para probar el registro.
 
@@ -113,3 +115,10 @@ Se adoptará una estrategia de pruebas basada en el riesgo, enfocándose primero
  Se han anotado al menos 3-5 posibles áreas de mejora o defectos obvios.
  Esta estrategia de pruebas se centra en una exploración ágil y sencilla de la aplicación web de Farmacias Guadalajara para escritorio,
  específicamente en el proceso de pedidos.
+
+*Defecto Crítico en el Proceso de Pago: Artículos "Disponibles en la Zona de Entrega" Bloquean la Compra*
+Durante las pruebas exploratorias, se identificó un defecto crítico en el proceso de pago. El problema principal es que no es posible finalizar la compra de ningún artículo que muestre la notificación "#Disponibles en la zona de entrega#", incluso si la dirección y el código postal coinciden con nuestra área de servicio (MDVDM).
+
+Esto significa que ninguna compra en línea para entrega a domicilio puede ser concretada en el área MDVDM debido a este bug. La falla representa un inconveniente altamente importante para nuestro comercio y tienda en línea, ya que afecta directamente la función principal de la plataforma, lo que se traduce en pérdidas monetarias significativas.
+
+La existencia de este bug fue verificada adicionalmente a través de una llamada telefónica, confirmando su impacto.
