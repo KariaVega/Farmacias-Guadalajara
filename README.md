@@ -106,7 +106,7 @@ Se adoptará una estrategia de pruebas basada en el riesgo, enfocándose primero
 #### :file_folder: Documentación para el aplicativo Web:
  
   - Lista de comprobación: https://docs.google.com/spreadsheets/d/1wNr76IR04i3inApwY4HMgmSqtH7gfUmH9-g2oOTaCvo/edit?usp=sharing
-  - Reporte y seguimiento de errores:https://arqkarvga.atlassian.net/jira/software/c/projects/FAR/summary?atlOrigin=eyJpIjoiNzExZDg0ZDgzZmIyNGQ5NGE2MDFlZTlhY2UwZWNhNjgiLCJwIjoiaiJ9
+  - Reporte y seguimiento de errores:https://arqkarvga.atlassian.net/browse/FAR
 
 ### :page_facing_up: *Informe resumen:* 
  - Informe del producto:
