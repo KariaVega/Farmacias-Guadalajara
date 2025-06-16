@@ -106,19 +106,19 @@ Se adoptará una estrategia de pruebas basada en el riesgo, enfocándose primero
 #### :file_folder: Documentación para el aplicativo Web:
  
   - Lista de comprobación: https://docs.google.com/spreadsheets/d/1wNr76IR04i3inApwY4HMgmSqtH7gfUmH9-g2oOTaCvo/edit?usp=sharing
-  - Reporte y seguimiento de errores:
+  - Reporte y seguimiento de errores:https://arqkarvga.atlassian.net/jira/software/c/projects/FAR/summary?atlOrigin=eyJpIjoiNzExZDg0ZDgzZmIyNGQ5NGE2MDFlZTlhY2UwZWNhNjgiLCJwIjoiaiJ9
 
 ### :page_facing_up: *Informe resumen:* 
  - Informe del producto:
- Se ha recorrido el flujo completo de pedido al menos una vez, desde la búsqueda hasta la simulación de confirmación.
- Se han identificado las funcionalidades principales y su comportamiento general.
- Se han anotado al menos 3-5 posibles áreas de mejora o defectos obvios.
- Esta estrategia de pruebas se centra en una exploración ágil y sencilla de la aplicación web de Farmacias Guadalajara para escritorio,
+ 1. Se ha recorrido el flujo completo de pedido al menos una vez, desde la búsqueda hasta la simulación de confirmación.
+ 2. Se ha verificado el proceso de registro de una cuenta nueva, incluyendo la adición de datos de envío.
+ 3. Se ha probado la funcionalidad de inicio de sesión con una cuenta existente para asegurar el acceso al flujo de pedido.
+ 4. Se han identificado las funcionalidades principales y su comportamiento general.
+ 5. Se han anotado al menos 3-5 posibles áreas de mejora o defectos obvios.
+ 6. Esta estrategia de pruebas se centra en una exploración ágil y sencilla de la aplicación web de Farmacias Guadalajara para escritorio,
  específicamente en el proceso de pedidos.
 
 *Defecto Crítico en el Proceso de Pago: Artículos "Disponibles en la Zona de Entrega" Bloquean la Compra*
 Durante las pruebas exploratorias, se identificó un defecto crítico en el proceso de pago. El problema principal es que no es posible finalizar la compra de ningún artículo que muestre la notificación "#Disponibles en la zona de entrega#", incluso si la dirección y el código postal coinciden con nuestra área de servicio (MDVDM).
-
 Esto significa que ninguna compra en línea para entrega a domicilio puede ser concretada en el área MDVDM debido a este bug. La falla representa un inconveniente altamente importante para nuestro comercio y tienda en línea, ya que afecta directamente la función principal de la plataforma, lo que se traduce en pérdidas monetarias significativas.
-
 La existencia de este bug fue verificada adicionalmente a través de una llamada telefónica, confirmando su impacto.
